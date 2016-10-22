@@ -11,9 +11,9 @@ title                    : "The Data Game"
 title_separator          : "-"
 name                     : "Eduardo Maia"
 description              : "My data analytics projects"
-url                      : "https://maiae.github.io"
+url                      : # "https://maiae.github.io"
 baseurl                  : # "/blog"
-repository               : "maiae/maiae.github.io"
+repository               : # "maiae/maiae.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
