@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Eduardo Maia"
 description              : "My data analytics projects"
 url                      : "https://maiae.github.io"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : "maiae/maiae.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : ""
   location         : "Sydney, Australia"
-  email            :
+  email            : "eviotti@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/Maiae"
   google_plus      :
   keybase          :
   instagram        :
